@@ -1,0 +1,17 @@
+body {
+    background-color:gainsboro ;
+}
+div {
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+p{
+    width: 500px;
+    margin: center;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    padding: 10px;
+}
